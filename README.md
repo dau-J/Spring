@@ -1,2 +1,2 @@
 # Spring
-spring study
+spring study 기록일지
